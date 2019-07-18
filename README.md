@@ -17,6 +17,12 @@ Lecture introducing database and server communication. We will also be introduci
 
 The following individuals contributed to the development of this application.
 
-<a href="https://github.com/awburgard"><img src="https://avatars2.githubusercontent.com/u/47367507?s=460&v=4" alt="awburgard" /></a>
-<a href="https://github.com/awburgard"><img src="https://avatars2.githubusercontent.com/u/47367507?s=460&v=4" alt="awburgard" /></a>
-<a href="https://github.com/awburgard"><img src="https://avatars2.githubusercontent.com/u/47367507?s=460&v=4" alt="awburgard" /></a>
+<a href="https://github.com/awburgard">
+   <img src="https://avatars2.githubusercontent.com/u/47367507?s=60" alt="awburgard" /> awburgard
+</a>
+<a href="https://github.com/awburgard">
+   <img src="https://avatars2.githubusercontent.com/u/47367507?s=60" alt="awburgard" /> awburgard
+</a>
+<a href="https://github.com/awburgard">
+   <img src="https://avatars2.githubusercontent.com/u/47367507?s=60" alt="awburgard" /> awburgard
+</a>
